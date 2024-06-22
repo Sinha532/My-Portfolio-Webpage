@@ -1,6 +1,5 @@
 ﻿pillow==10.3.0
 st-social-media-links==0.1.1
-st-theme==1.2.3
 streamlit==1.36.0
 streamlit-navigation-bar==3.3.0
 
