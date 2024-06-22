@@ -9,8 +9,6 @@ Welcome to my personal portfolio website, built entirely using Streamlit! This w
 - [Usage](#usage)
 - [Pages](#pages)
 - [Contact](#contact)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This portfolio website is designed to present my professional background, projects, and contact information in a clean and organized manner. It utilizes the Streamlit framework for a seamless, interactive user experience.
@@ -29,11 +27,11 @@ To run this project locally, you need to have Python installed. Follow these ste
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Sinha532/My-Portfolio-Webpage.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo
+    cd My-Portfolio-Webpage
     ```
 3. Install the required packages:
     ```bash
@@ -44,5 +42,28 @@ To run this project locally, you need to have Python installed. Follow these ste
 To start the Streamlit application, run the following command:
 ```bash
 streamlit run app.py
+```
+This will launch the website locally, and you can access it in your web browser at http://localhost:8501.
 
+# Pages
+## Home
+The homepage welcomes visitors with a brief introduction and overview of the website's purpose.
+
+## About Me
+Provides detailed information about my background, including education and interests.
+
+## My Projects
+Showcases various projects I have worked on, with descriptions and links to the repositories or live demos.
+
+## Education
+Lists my educational qualifications, including degrees and institutions.
+
+## Experience
+Summarizes my professional experience, including job titles, companies, and durations.
+
+## Certifications
+Displays a list of certifications I have earned in various domains.
+
+## Contact
+If you have any questions or would like to get in touch, please feel free to contact me via the form on the website or through my email: lokeshsinha746@gmail.com.
 
